@@ -9,6 +9,9 @@ connect wires and execute:
 flash_pro or flash_classic 
 according to the board you want to flash
 
+Youtube:
+https://youtu.be/V2idfY3y-KQ
+
 Using openocd for flashing
 http://openocd.org/
 
