@@ -1,0 +1,22 @@
+*custom ble V6
+
+*Improved throttle and brake measurement. 
+
+*added slow mode, you can acivate it by changing mode while stop and pressing brake
+ to deactivate it you do the same but pressing throttle.
+ it scales the thottle down so the scooter doesnt exceed certain speed.
+
+*on the ble074 it displays the batery percentage while stop
+--6.1 = fixed device id on pro scooter.
+
+*added disabled throttle mode
+
+*added ble allways on, on demand
+ 
+*added compatibility with purple boards
+
+
+
+*As always, there is no warranty on these firmwares, use them at your own risk.
+
+*Donations wellcome paypal.me/camialfa
