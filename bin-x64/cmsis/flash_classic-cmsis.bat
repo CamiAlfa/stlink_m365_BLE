@@ -1,5 +1,6 @@
 @echo "you have 5 seconds to connect wires"
 @timeout 5
+@cd ..
 @openocd.exe -f ../scripts/interface/cmsis-dap.cfg -f ../scripts/target/nrf51.cfg -c "init" -c "reset halt" -c "nrf51 mass_erase" -c "program classic073_flash.hex verify" -c "reset run" -c "exit"
 @echo "If board doesnt flash press any key to try again at lower speed"
 @pause
