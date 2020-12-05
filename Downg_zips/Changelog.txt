@@ -1,4 +1,16 @@
-*custom ble V6
+Update V7
+fixes:
+*throttle scale
+*slow mode
+added:
+**Filter to smooth out throttle noise
+**Scroll animation
+**Battery km trip
+**Menu to show: battery km, ride km, ride minutes, BMS temp and DRV temp
+**option to disable dimming when front light is on
+**updated BLE ADV packet
+
+*V6
 
 *Improved throttle and brake measurement. 
 
@@ -10,9 +22,7 @@
 --6.1 = fixed device id on pro scooter.
 
 *added disabled throttle mode
-
 *added ble allways on, on demand
- 
 *added compatibility with purple boards
 
 
