@@ -1,3 +1,16 @@
+*Donations wellcome www.paypal.me/camialfa
+*As always, there is no warranty on these firmwares, use them at your own risk.
+Update V8
+fixes:
+*Slow mode activation bug when braking
+*Slow mode activation bug when turning on and pressing brake
+added:
+*Slow mode activation only changes when changing fron eco to drive an pressing brake or throttle
+*Attempt to compensate voltage drop and throttle/brake readings
+*Option to disable brake lever to navigate into the menu
+*Option to disable show battery when stop
+*Option to Keep the frontlight always on
+
 Update V7
 fixes:
 *throttle scale
@@ -10,23 +23,25 @@ added:
 **option to disable dimming when front light is on
 **updated BLE ADV packet
 
-*V6
-
-*Improved throttle and brake measurement. 
-
+Update V6
+fixes:
+*Improved throttle and brake measurement.
+*6.1 = fixed device id on pro scooter.
+added:
 *added slow mode, you can acivate it by changing mode while stop and pressing brake
  to deactivate it you do the same but pressing throttle.
  it scales the thottle down so the scooter doesnt exceed certain speed.
-
 *on the ble074 it displays the batery percentage while stop
---6.1 = fixed device id on pro scooter.
-
 *added disabled throttle mode
 *added ble allways on, on demand
 *added compatibility with purple boards
 
-
-
-*As always, there is no warranty on these firmwares, use them at your own risk.
-
-*Donations wellcome paypal.me/camialfa
+update V2
+Increased throttle and brake sensing speed
+fixed display kmh led on while battery charging
+attemt to fix bug of ble not turning on
+ADD display err number on classic mode
+update V1
+fixed bugs
+Fixed some ble packets went missing
+add shorter beeps
