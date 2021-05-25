@@ -1,5 +1,15 @@
 *Donations wellcome www.paypal.me/camialfa
 *As always, there is no warranty on these firmwares, use them at your own risk.
+*Donations wellcome www.paypal.me/camialfa
+*As always, there is no warranty on these firmwares, use them at your own risk.
+Update V9
+fixes:
+*Fixed bug that prevented big file update being flashed
+*Reduce voltage sensing sensitivity
+added:
+*Partial KM
+*Posibility to reset partial KM and Battery KM
+*Ported to M365 Gen2 (BLE075)
 Update V8
 fixes:
 *Slow mode activation bug when braking
