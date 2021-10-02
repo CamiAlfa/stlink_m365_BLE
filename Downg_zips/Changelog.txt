@@ -1,7 +1,14 @@
 *Donations wellcome www.paypal.me/camialfa
 *As always, there is no warranty on these firmwares, use them at your own risk.
-*Donations wellcome www.paypal.me/camialfa
-*As always, there is no warranty on these firmwares, use them at your own risk.
+Update V10 
+*added possibility to mute all beeps
+*added posibility to select what information to show when standing and when rolling
+*added possibility to disable the extra info menu
+*added possibility to disabel the display
+*support to the mi scooter 3
+*Use the xiaomi original bootloader to make system upgrades in order to avoid bricks
+*Major changes on program structure to optimize MCU resources.
+
 Update V9
 fixes:
 *Fixed bug that prevented big file update being flashed
