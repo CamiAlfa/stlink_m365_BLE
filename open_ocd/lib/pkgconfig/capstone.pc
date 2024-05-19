@@ -1,0 +1,10 @@
+prefix=/usr 
+exec_prefix=${prefix} 
+libdir=${exec_prefix}/lib 
+includedir=${prefix}/include
+
+Name: capstone
+Description: Capstone disassembly engine
+Version: 4.0.2
+Libs: -L${libdir} -lcapstone
+Cflags: -I${includedir}

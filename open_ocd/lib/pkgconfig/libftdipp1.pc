@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr/bin
+libdir=/usr/bin
+includedir=/usr/include/libftdi1
+
+Name: libftdipp1
+Description: C++ wrapper for libftdi1
+Requires: libftdi1
+Version: 1.4
+Libs: -L${libdir} -lftdipp1
+Cflags: -I${includedir}
