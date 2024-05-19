@@ -1,5 +1,11 @@
 *Donations wellcome www.paypal.me/camialfa
 *As always, there is no warranty on these firmwares, use them at your own risk.
+Update V11
+*added posibility to use battery bars as speed indicator
+*optimize display speed
+*optimize throtle and brake algorytm
+*optimize display submenu navigation
+*fix name change bug
 Update V10 
 *added possibility to mute all beeps
 *added posibility to select what information to show when standing and when rolling
